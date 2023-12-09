@@ -8,6 +8,7 @@ public class FerreteriaWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FerreteriaWebApplication.class, args);
+		System.out.println("datos");
 	}
 
 }
